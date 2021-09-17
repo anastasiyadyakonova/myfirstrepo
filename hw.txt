@@ -1,4 +1,4 @@
 1.https://www.youtube.com/watch?v=TYFPvjL1mYE
-2.проделать 30 любых операций с Git
-3.уроки до 8 с Git
+2.уроки до 8 с Git
+3.проделать 30 любых операций с Git
 
